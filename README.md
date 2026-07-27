@@ -1,78 +1,130 @@
+<!-- =========================================================
+     MICHAEL ALEXANDER BELLIDO KÖNIG — GITHUB PROFILE
+========================================================== -->
+
 <div align="center">
 
-# Michael Alexander Bellido König
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7F1D1D,100:111827&height=240&section=header&text=Michael%20Alexander%20Bellido%20K%C3%B6nig&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Technology%20Consultant%20%7C%20Computer%20Engineering%20Student&descSize=18&descAlignY=58&animation=fadeIn" alt="Michael Alexander Bellido König">
 
-### AI & Technology Consultant · Computer Engineering Student
-
-**AI Automation · CRM Systems · Python · SQL · Generative AI · Digital Solutions**
-
-I build practical technology solutions that automate processes, improve customer experiences, and deliver measurable business results.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F3F4F6&center=true&vCenter=true&width=900&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Bellido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
-[![Website](https://img.shields.io/badge/Website-yourbusiness.solutions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
 [![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
 
 <br>
 
-**Warsaw, Poland**
-
-Open to opportunities in **AI automation, technology consulting, implementation, CRM, and digital transformation**
+![Location](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
+![Availability](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-7F1D1D?style=flat-square)
 
 </div>
 
 ---
 
-## Professional Profile
+## Professional Snapshot
 
-I am a Computer Engineering student and AI & Technology Consultant based in Warsaw, Poland.
+> **I design and implement AI, automation, CRM, and digital systems that solve real business problems and produce measurable results.**
 
-I specialise in developing practical automation systems, custom CRM solutions, AI-assisted workflows, and customer-facing digital products. Through **Your Business Solutions**, I work directly with international clients to analyse business processes, identify inefficiencies, and implement technology solutions with measurable commercial impact.
+I am a **Computer Engineering student** and **AI & Technology Consultant** based in Warsaw. Through **Your Business Solutions**, I work directly with international clients to analyse inefficient processes, design practical solutions, and deliver technology that improves operations, customer acquisition, and business performance.
 
-My experience combines technical execution, business analysis, and direct client delivery across:
+My work sits at the intersection of:
 
-- AI automation and generative AI applications
-- Custom CRM systems and lead-management workflows
+- AI automation and generative AI
+- Custom CRM and lead-management systems
 - Process optimisation and system integration
-- Python, SQL, data analysis, and digital analytics
-- SEO, Google Ads, and customer-acquisition systems
-- Technology consulting and international client communication
+- Technology consulting and client delivery
+- Data-driven digital growth
+- Networking and security
 
 ---
 
-## Selected Impact
+## Business Impact
+
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>6×</strong><br>
-      Website traffic growth
-    </td>
-    <td align="center" width="33%">
-      <strong>30+</strong><br>
-      New 5-star reviews
-    </td>
-    <td align="center" width="33%">
-      <strong>15 h/week</strong><br>
-      Manual work automated
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>37 → 88</strong><br>
-      Mobile PageSpeed
-    </td>
-    <td align="center">
-      <strong>70+</strong><br>
-      Accounts recovered
-    </td>
-    <td align="center">
-      <strong>36%</strong><br>
-      Increase in client sales
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<h3>6×</h3>
+Website traffic growth
+</td>
+<td align="center" width="33%">
+<h3>30+</h3>
+New 5-star reviews
+</td>
+<td align="center" width="33%">
+<h3>15 h/week</h3>
+Manual work eliminated
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<h3>37 → 88</h3>
+Mobile PageSpeed
+</td>
+<td align="center">
+<h3>70+</h3>
+E-commerce accounts recovered
+</td>
+<td align="center">
+<h3>36%</h3>
+Increase in client sales
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### AI & Automation
+
+- AI-assisted workflows
+- AI chatbots and agents
+- Prompt engineering
+- Lead follow-up automation
+- Repetitive-task elimination
+- Data-driven processes
+
+</td>
+
+<td valign="top" width="33%">
+
+### Business Systems
+
+- Custom CRM systems
+- Lead-source tracking
+- Customer-management workflows
+- Website and form integrations
+- Reporting and analytics
+- Process optimisation
+
+</td>
+
+<td valign="top" width="33%">
+
+### Digital Platforms
+
+- SEO-optimised websites
+- Google Ads campaigns
+- Conversion-focused landing pages
+- Local search optimisation
+- Customer-acquisition systems
+- Performance monitoring
+
+</td>
+</tr>
 </table>
 
 ---
@@ -83,37 +135,39 @@ My experience combines technical execution, business analysis, and direct client
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### AI & Automation
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge&logo=probot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-00A67E?style=for-the-badge&logo=chatbot&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process_Automation-FF6D00?style=for-the-badge&logo=make&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E40C9?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
+![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-00A67E?style=for-the-badge)
+![Process Automation](https://img.shields.io/badge/Process_Automation-FF6D00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge)
 
-### CRM, Digital & Analytics
+### CRM, Marketing & Analytics
 
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Search](https://img.shields.io/badge/Google_Search-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google-search-console&logoColor=white)
-![CRM Systems](https://img.shields.io/badge/CRM_Systems-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white)
+![CRM Systems](https://img.shields.io/badge/Custom_CRM-00A1E0?style=for-the-badge)
 
 ### Networking & Security
 
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-00629B?style=for-the-badge&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall_Configuration-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![DHCP & DNS](https://img.shields.io/badge/DHCP_%26_DNS-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![IoT Security](https://img.shields.io/badge/IoT_Security-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-005073?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall_Configuration-EE3124?style=for-the-badge)
+![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-1BA0D7?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-009639?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-008080?style=for-the-badge)
+![IoT Security](https://img.shields.io/badge/IoT_Security-00979D?style=for-the-badge)
 
 ---
 
@@ -123,22 +177,29 @@ My experience combines technical execution, business analysis, and direct client
 
 **Legal services client · Tenerife, Spain**
 
-Designed and implemented a connected digital ecosystem combining:
+Designed and implemented a connected digital ecosystem combining a custom CRM, lead-source tracking, an SEO-optimised website, Google Ads, automated review generation, and customer-management workflows.
 
-- Custom CRM for client and lead-source management
-- SEO-optimised website and lead-capture forms
-- Automated customer follow-up workflows
-- Google Ads campaign management
-- Local and multilingual SEO
-- Automated review-generation workflows
-- Analytics and performance monitoring
+**Key outcomes**
 
-**Results achieved:**
+- Increased monthly website traffic by **6×**
+- Generated **30+ new 5-star reviews** in one month
+- Improved mobile PageSpeed from **37 to 88**
+- Reduced manual administrative work by approximately **15 hours per week**
 
-- Increased monthly website traffic by 6×
-- Generated more than 30 new 5-star reviews in one month
-- Improved mobile PageSpeed from 37 to 88
-- Reduced manual administrative work by approximately 15 hours per week
+<details>
+<summary><strong>View project scope</strong></summary>
+
+<br>
+
+- Conducted a complete digital and technical audit
+- Identified website, SEO, UX, and conversion problems
+- Designed a custom CRM for clients and lead sources
+- Connected website forms with lead-management workflows
+- Implemented review-generation automation
+- Managed Google Ads and local SEO
+- Introduced analytics and continuous optimisation
+
+</details>
 
 ---
 
@@ -146,14 +207,14 @@ Designed and implemented a connected digital ecosystem combining:
 
 **Real-estate client · Remote**
 
-Developing an automated customer-acquisition platform involving:
+Developing an integrated customer-acquisition system combining:
 
 - AI-powered chatbot
-- Automated lead-capture workflows
+- Lead-capture automation
 - Google Ads campaign management
-- SEO-oriented website optimisation
-- Google Maps visibility improvements
-- Customer enquiry and follow-up processes
+- SEO-oriented website improvements
+- Google Maps optimisation
+- Customer enquiry and follow-up workflows
 
 ---
 
@@ -161,49 +222,71 @@ Developing an automated customer-acquisition platform involving:
 
 **Restaurant IT infrastructure project**
 
-Designed a four-zone network architecture separating:
+Designed a secure four-zone network architecture separating:
 
 - Guest devices
 - Staff devices
 - Business-critical systems
 - IoT and CCTV equipment
 
-Implemented and documented:
+<details>
+<summary><strong>View technical implementation</strong></summary>
+
+<br>
 
 - VLAN segmentation
 - Inter-VLAN firewall policies
-- Guest and IoT client isolation
+- Guest client isolation
+- IoT and CCTV isolation
 - DHCP ranges and reservations
 - DNS and content filtering
 - Captive portal access
 - Per-user bandwidth limits
 - Structured IP addressing
 - Connectivity and isolation testing
+- Technical documentation and network diagram
+
+</details>
 
 ---
 
 ## Professional Experience
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Founder & Technology Consultant
 
-**Your Business Solutions · Poland · Remote**
+**Your Business Solutions**  
+Poland · Remote
 
-- Design and implement AI automation, CRM systems, chatbots, websites, and digital workflows
-- Conduct client discovery, digital audits, process analysis, and solution design
-- Manage Google Ads, SEO, analytics, and lead-generation systems
-- Translate business challenges into practical technology solutions
-- Work directly with international clients across implementation and optimisation
+- Deliver AI automation and CRM solutions
+- Conduct client discovery and technical audits
+- Design and implement digital workflows
+- Manage Google Ads, SEO, and analytics
+- Translate business needs into technology
+- Coordinate projects from strategy to delivery
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Digital Operations & E-Commerce Consultant
 
-**Hydra Solutions · Germany · Remote**
+**Hydra Solutions**  
+Germany · Remote
 
-- Supported international Amazon FBA clients with technical and operational challenges
-- Recovered more than 70 suspended e-commerce accounts
-- Optimised more than 300 product listings
-- Managed PPC campaigns and marketplace operations
-- Contributed to a 36% increase in client sales
-- Coordinated client communication and technical problem-solving
+- Supported international Amazon FBA clients
+- Recovered more than 70 suspended accounts
+- Optimised over 300 product listings
+- Managed PPC and marketplace operations
+- Coordinated international client communication
+- Contributed to a 36% increase in sales
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -223,46 +306,45 @@ Spain · 2022 – 2025
 
 ## Certifications
 
-- **Data Science with Artificial Intelligence**
-- **SEO for AI & Google**
-- **AI Development with Agents**
-- **AI-Powered Digital Marketing**
-- **AI Engineering: From Fundamentals to AI Agents**
+<table>
+<tr>
+<td width="50%">
+
+- Data Science with Artificial Intelligence
+- AI Engineering: From Fundamentals to AI Agents
+- AI Development with Agents
+
+</td>
+<td width="50%">
+
+- AI-Powered Digital Marketing
+- SEO for AI & Google
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Languages
 
+<div align="center">
+
 ![Spanish](https://img.shields.io/badge/Spanish-Native-AA151B?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-C1-012169?style=for-the-badge)
-![German](https://img.shields.io/badge/German-B1-000000?style=for-the-badge)
+![German](https://img.shields.io/badge/German-B1-DD0000?style=for-the-badge)
 ![Italian](https://img.shields.io/badge/Italian-B1-008C45?style=for-the-badge)
 ![Polish](https://img.shields.io/badge/Polish-A1-DC143C?style=for-the-badge)
+
+</div>
 
 ---
 
 ## Current Focus
 
-- Building practical AI and automation projects
-- Developing custom CRM and business workflow solutions
-- Improving my Python, SQL, API, and system-integration skills
-- Exploring AI agents and generative AI applications
-- Expanding my technical portfolio through real-world projects
-- Seeking opportunities in AI, automation, technology consulting, and implementation
-
----
-
-<div align="center">
-
-## Let's Connect
-
-Interested in AI automation, technology consulting, CRM implementation, digital transformation, and international collaboration opportunities.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
-[![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
-[![Website](https://img.shields.io/badge/Website-yourbusiness.solutions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
-[![Email](https://img.shields.io/badge/Gmail-Send_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
-
-</div>
+```text
+Building     AI automation, CRM systems and business workflows
+Learning     Production-oriented AI, APIs and system integration
+Developing   Practical projects with measurable business impact
+Exploring    AI agents, data and technology consulting
+Seeking      AI, automation, implementation and consulting roles
