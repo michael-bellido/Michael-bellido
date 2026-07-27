@@ -15,9 +15,20 @@
 
 <br><br>
 
-![Warsaw](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
-![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
+![Location](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
+![Availability](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-7F1D1D?style=flat-square)
+
+<br><br>
+
+<p>
+  <em>
+    “I didn’t think I’d regret trying and failing.<br>
+    I suspected I would always be haunted by a decision not to try at all.”
+  </em>
+</p>
+
+<p><strong>— Jeff Bezos</strong></p>
 
 </div>
 
@@ -27,7 +38,9 @@
 
 > **I design and implement AI, automation, CRM, and digital systems that solve real business problems and produce measurable results.**
 
-I am a **Computer Engineering student** and **AI & Technology Consultant** based in Warsaw. Through **Your Business Solutions**, I work directly with international clients to analyse inefficient processes, design practical solutions, and deliver technology that improves operations, customer acquisition, and business performance.
+I am a **Computer Engineering student** and **AI & Technology Consultant** based in Warsaw, Poland.
+
+Through **Your Business Solutions**, I work directly with international clients to analyse inefficient processes, design practical solutions, and deliver technology that improves operations, customer acquisition, and business performance.
 
 My work sits at the intersection of:
 
@@ -39,39 +52,6 @@ My work sits at the intersection of:
 - Networking and security
 
 ---
-
-<div align="center">
-
-# Michael Alexander Bellido König
-
-### AI & Technology Consultant · Computer Engineering Student
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=F3F4F6&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Bellido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
-[![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
-
-<br><br>
-
-![Warsaw](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
-![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-7F1D1D?style=flat-square)
-
-<br><br>
-
-> *“I didn’t think I’d regret trying and failing.  
-> I suspected I would always be haunted by a decision not to try at all.”*  
-> **— Jeff Bezos**
-
-</div>
-
----
-
-## Professional Snapshot
 
 ## Business Impact
 
@@ -186,9 +166,9 @@ Increase in client sales
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=google&logoColor=white)
-![CRM Systems](https://img.shields.io/badge/Custom_CRM-00A1E0?style=for-the-badge)
+![Custom CRM](https://img.shields.io/badge/Custom_CRM-00A1E0?style=for-the-badge)
 
 ### Networking & Security
 
@@ -210,7 +190,7 @@ Increase in client sales
 
 Designed and implemented a connected digital ecosystem combining a custom CRM, lead-source tracking, an SEO-optimised website, Google Ads, automated review generation, and customer-management workflows.
 
-**Key outcomes**
+#### Key outcomes
 
 - Increased monthly website traffic by **6×**
 - Generated **30+ new 5-star reviews** in one month
@@ -290,13 +270,14 @@ Designed a secure four-zone network architecture separating:
 ### Founder & Technology Consultant
 
 **Your Business Solutions**  
-Poland · Remote
+Poland · Remote  
+2026 – Present
 
 - Deliver AI automation and CRM solutions
 - Conduct client discovery and technical audits
 - Design and implement digital workflows
 - Manage Google Ads, SEO, and analytics
-- Translate business needs into technology
+- Translate business needs into technology solutions
 - Coordinate projects from strategy to delivery
 
 </td>
@@ -306,14 +287,15 @@ Poland · Remote
 ### Digital Operations & E-Commerce Consultant
 
 **Hydra Solutions**  
-Germany · Remote
+Germany · Remote  
+2023 – 2025
 
 - Supported international Amazon FBA clients
 - Recovered more than 70 suspended accounts
 - Optimised over 300 product listings
 - Managed PPC and marketplace operations
 - Coordinated international client communication
-- Contributed to a 36% increase in sales
+- Contributed to a 36% increase in client sales
 
 </td>
 </tr>
@@ -339,14 +321,15 @@ Spain · 2022 – 2025
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
 - Data Science with Artificial Intelligence
 - AI Engineering: From Fundamentals to AI Agents
 - AI Development with Agents
 
 </td>
-<td width="50%">
+
+<td valign="top" width="50%">
 
 - AI-Powered Digital Marketing
 - SEO for AI & Google
