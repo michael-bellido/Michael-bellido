@@ -40,6 +40,39 @@ My work sits at the intersection of:
 
 ---
 
+<div align="center">
+
+# Michael Alexander Bellido König
+
+### AI & Technology Consultant · Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=F3F4F6&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Bellido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
+[![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
+
+<br><br>
+
+![Warsaw](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-7F1D1D?style=flat-square)
+
+<br><br>
+
+> *“I didn’t think I’d regret trying and failing.  
+> I suspected I would always be haunted by a decision not to try at all.”*  
+> **— Jeff Bezos**
+
+</div>
+
+---
+
+## Professional Snapshot
+
 ## Business Impact
 
 <div align="center">
