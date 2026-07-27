@@ -1,24 +1,22 @@
-<!-- =========================================================
-     MICHAEL ALEXANDER BELLIDO KÖNIG — GITHUB PROFILE
-========================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7F1D1D,100:111827&height=240&section=header&text=Michael%20Alexander%20Bellido%20K%C3%B6nig&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Technology%20Consultant%20%7C%20Computer%20Engineering%20Student&descSize=18&descAlignY=58&animation=fadeIn" alt="Michael Alexander Bellido König">
+# Michael Alexander Bellido König
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=F3F4F6&center=true&vCenter=true&width=900&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
+### AI & Technology Consultant · Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=F3F4F6&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Bellido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
 [![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
 
-<br>
+<br><br>
 
-![Location](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
-![Availability](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
+![Warsaw](https://img.shields.io/badge/Warsaw-Poland-111827?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-AI_%26_Automation-7F1D1D?style=flat-square)
 
 </div>
