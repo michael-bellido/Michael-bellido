@@ -59,7 +59,7 @@
 
 <p align="center"><strong>— Jeff Bezos</strong></p>
 
-Professional Snapshot
+01 · Professional Snapshot
 
 I design and implement AI, automation, CRM, and digital systems that solve real business problems and produce measurable results.
 
@@ -67,23 +67,25 @@ I am a Computer Engineering student and AI & Technology Consultant based in Wars
 
 Through Your Business Solutions, I work directly with international clients to analyse inefficient processes, design practical solutions, and deliver technology that improves operations, customer acquisition, and business performance.
 
-My work sits at the intersection of:
+Core Areas of Expertise
 
-AI automation and generative AI
+AI automation & generative AI — practical AI-assisted workflows, agents, chatbots, and prompt engineering.
 
-Custom CRM and lead-management systems
+Custom CRM & lead management — systems for organising leads, managing customers, and automating follow-up.
 
-Process optimisation and system integration
+Process optimisation & system integration — connecting websites, forms, APIs, databases, and business tools.
 
-Technology consulting and client delivery
+Technology consulting & client delivery — from discovery and technical audits to implementation and continuous improvement.
 
-Data-driven digital growth
+Data-driven digital growth — SEO, paid advertising, analytics, conversion optimisation, and local visibility.
 
-Networking and security
+Networking & security — VLANs, firewall policies, network segmentation, DNS, DHCP, and IoT isolation.
 
-Technology Stack
+02 · Technology Stack
 
-Programming Languages
+A structured overview of the languages, platforms, systems, and tools I use to design and deliver technical solutions.
+
+01 — Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -91,7 +93,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logoColor=white" alt="SQL" />
 </p>
 
-Web, Data & Integration
+02 — Web, Data & Integration
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -103,7 +105,7 @@ Web, Data & Integration
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-Development & Systems
+03 — Development & Systems
 
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -113,7 +115,7 @@ Development & Systems
   <img src="https://img.shields.io/badge/System_Integration-000000?style=for-the-badge" alt="System Integration" />
 </p>
 
-AI & Automation
+04 — AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
@@ -124,7 +126,7 @@ AI & Automation
   <img src="https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge" alt="Data Analysis" />
 </p>
 
-CRM, Marketing & Analytics
+05 — CRM, Marketing & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Custom_CRM-000000?style=for-the-badge" alt="Custom CRM" />
@@ -136,7 +138,7 @@ CRM, Marketing & Analytics
   <img src="https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
 </p>
 
-Networking & Security
+06 — Networking & Security
 
 <p>
   <img src="https://img.shields.io/badge/UniFi-000000?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi" />
@@ -148,7 +150,7 @@ Networking & Security
   <img src="https://img.shields.io/badge/IoT_Security-000000?style=for-the-badge" alt="IoT Security" />
 </p>
 
-Business Impact
+03 · Business Impact
 
 <div align="center">
   <table>
@@ -183,7 +185,7 @@ Business Impact
   </table>
 </div>
 
-What I Build
+04 · What I Build
 
 <table>
   <tr>
@@ -223,7 +225,7 @@ What I Build
   </tr>
 </table>
 
-Featured Projects
+05 · Featured Projects
 
 AI Automation, CRM & Growth Platform
 
@@ -325,7 +327,7 @@ Technical documentation and network diagram
 
 </details>
 
-Professional Experience
+06 · Professional Experience
 
 <table>
   <tr>
@@ -362,7 +364,7 @@ Professional Experience
   </tr>
 </table>
 
-Education
+07 · Education
 
 Bachelor's Degree in Computer Engineering
 
@@ -372,7 +374,7 @@ Computer Engineering Studies
 
 Universidad de Las Palmas de Gran CanariaSpain · 2022 – 2025
 
-Certifications
+08 · Certifications
 
 <table>
   <tr>
@@ -392,7 +394,7 @@ Certifications
   </tr>
 </table>
 
-Languages
+09 · Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spanish-Native-000000?style=for-the-badge" alt="Spanish Native" />
@@ -402,10 +404,14 @@ Languages
   <img src="https://img.shields.io/badge/Polish-A1-000000?style=for-the-badge" alt="Polish A1" />
 </p>
 
-Current Focus
+10 · Current Focus
 
-Building     AI automation, CRM systems and business workflows
-Learning     Production-oriented AI, APIs and system integration
-Developing   Practical projects with measurable business impact
-Exploring    AI agents, data and technology consulting
-Seeking      AI, automation, implementation and consulting roles
+Building — AI automation, CRM systems, and business workflows.
+
+Learning — production-oriented AI, APIs, and system integration.
+
+Developing — practical projects with measurable business impact.
+
+Exploring — AI agents, data, and technology consulting.
+
+Seeking — AI, automation, implementation, and consulting roles.
