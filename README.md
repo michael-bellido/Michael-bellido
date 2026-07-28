@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Bellido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-bellido)
 [![GitHub](https://img.shields.io/badge/GitHub-michael--bellido-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michael-bellido)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
+[![Business](https://img.shields.io/badge/Portfolio-yourbusiness.solutions-7F1D1D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourbusiness.solutions)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.bellido.konig@gmail.com)
 
 <br><br>
