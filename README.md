@@ -1,18 +1,14 @@
+<p align="center">
+  <img src="./ybs-banner.png" alt="Your Business Solutions — Automation, Digital Solutions and Business Growth" width="100%">
+</p>
+
 <div align="center">
-
-<img src="./assets/ybs-banner.png" alt="Your Business Solutions — Automation, Digital Solutions and Business Growth" width="100%">
-
-<br>
 
 Michael Alexander Bellido König
 
 AI & Technology Consultant · Computer Engineering Student
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=000000&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=000000&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+AI-powered+automation+and+CRM+systems;Turning+business+problems+into+measurable+results;Combining+technology%2C+strategy+and+client+delivery" alt="Professional headline">
 
 <br>
 
