@@ -227,105 +227,131 @@ A structured overview of the languages, platforms, systems, and tools I use to d
 
 05 · Featured Projects
 
-AI Automation, CRM & Growth Platform
-
-Legal services client · Tenerife, Spain
-
-Designed and implemented a connected digital ecosystem combining a custom CRM, lead-source tracking, an SEO-optimised website, Google Ads, automated review generation, and customer-management workflows.
-
-Key outcomes
-
-Increased monthly website traffic by 6×
-
-Generated 30+ new 5-star reviews in one month
-
-Improved mobile PageSpeed from 37 to 88
-
-Reduced manual administrative work by approximately 15 hours per week
-
-<details>
-  <summary><strong>View project scope</strong></summary>
-  <br />
-
-Conducted a complete digital and technical audit
-
-Identified website, SEO, UX, and conversion problems
-
-Designed a custom CRM for clients and lead sources
-
-Connected website forms with lead-management workflows
-
-Implemented review-generation automation
-
-Managed Google Ads and local SEO
-
-Introduced analytics and continuous optimisation
-
-</details>
-
-<br />
-
-AI Chatbot, Advertising & Website Automation
-
-Real-estate client · Remote
-
-Developing an integrated customer-acquisition system combining:
-
-AI-powered chatbot
-
-Lead-capture automation
-
-Google Ads campaign management
-
-SEO-oriented website improvements
-
-Google Maps optimisation
-
-Customer enquiry and follow-up workflows
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <h3>AI Automation, CRM & Growth Platform</h3>
+        <p><strong>Legal Services · Tenerife, Spain</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Custom_CRM-000000?style=flat-square" alt="Custom CRM" />
+          <img src="https://img.shields.io/badge/AI_Automation-000000?style=flat-square" alt="AI Automation" />
+          <img src="https://img.shields.io/badge/Google_Ads-000000?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+          <img src="https://img.shields.io/badge/SEO-000000?style=flat-square&logo=google&logoColor=white" alt="SEO" />
+          <img src="https://img.shields.io/badge/Analytics-000000?style=flat-square&logo=googleanalytics&logoColor=white" alt="Analytics" />
+        </p>
+      </div>
+      <hr />
+      <p>
+        Designed and implemented a connected digital ecosystem combining a custom CRM,
+        lead-source tracking, an SEO-optimised website, Google Ads, automated review
+        generation, and customer-management workflows.
+      </p>
+      <h4>Key Results</h4>
+      <ul>
+        <li>Increased monthly website traffic by <strong>6×</strong>.</li>
+        <li>Generated <strong>30+ new 5-star reviews</strong> in one month.</li>
+        <li>Improved mobile PageSpeed from <strong>37 to 88</strong>.</li>
+        <li>Reduced manual administrative work by approximately <strong>15 hours per week</strong>.</li>
+      </ul>
+      <details>
+        <summary><strong>View project scope</strong></summary>
+        <br />
+        <ul>
+          <li>Conducted a complete digital and technical audit.</li>
+          <li>Identified website, SEO, UX, and conversion problems.</li>
+          <li>Designed a custom CRM for clients and lead sources.</li>
+          <li>Connected website forms with lead-management workflows.</li>
+          <li>Implemented review-generation automation.</li>
+          <li>Managed Google Ads and local SEO.</li>
+          <li>Introduced analytics and continuous optimisation.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-Secure Guest Wi-Fi & Network Segmentation
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <h3>AI Chatbot, Advertising & Website Automation</h3>
+        <p><strong>Real Estate · Remote</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/AI_Chatbot-000000?style=flat-square" alt="AI Chatbot" />
+          <img src="https://img.shields.io/badge/Lead_Automation-000000?style=flat-square" alt="Lead Automation" />
+          <img src="https://img.shields.io/badge/Google_Ads-000000?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+          <img src="https://img.shields.io/badge/Website_Automation-000000?style=flat-square" alt="Website Automation" />
+          <img src="https://img.shields.io/badge/Google_Maps-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps" />
+        </p>
+      </div>
+      <hr />
+      <p>
+        Developing an integrated customer-acquisition system designed to capture,
+        qualify, organise, and follow up with potential clients across digital channels.
+      </p>
+      <h4>Project Scope</h4>
+      <ul>
+        <li>AI-powered chatbot for initial customer interaction.</li>
+        <li>Automated lead capture and enquiry routing.</li>
+        <li>Google Ads campaign management.</li>
+        <li>SEO-oriented website improvements.</li>
+        <li>Google Maps and local visibility optimisation.</li>
+        <li>Customer enquiry and follow-up workflows.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Restaurant IT infrastructure project
+<br />
 
-Designed a secure four-zone network architecture separating:
-
-Guest devices
-
-Staff devices
-
-Business-critical systems
-
-IoT and CCTV equipment
-
-<details>
-  <summary><strong>View technical implementation</strong></summary>
-  <br />
-
-VLAN segmentation
-
-Inter-VLAN firewall policies
-
-Guest client isolation
-
-IoT and CCTV isolation
-
-DHCP ranges and reservations
-
-DNS and content filtering
-
-Captive portal access
-
-Per-user bandwidth limits
-
-Structured IP addressing
-
-Connectivity and isolation testing
-
-Technical documentation and network diagram
-
-</details>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <h3>Secure Guest Wi-Fi & Network Segmentation</h3>
+        <p><strong>Restaurant IT Infrastructure</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/UniFi-000000?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi" />
+          <img src="https://img.shields.io/badge/VLANs-000000?style=flat-square" alt="VLANs" />
+          <img src="https://img.shields.io/badge/Firewall-000000?style=flat-square" alt="Firewall" />
+          <img src="https://img.shields.io/badge/Network_Segmentation-000000?style=flat-square" alt="Network Segmentation" />
+          <img src="https://img.shields.io/badge/IoT_Security-000000?style=flat-square" alt="IoT Security" />
+        </p>
+      </div>
+      <hr />
+      <p>
+        Designed a secure four-zone network architecture that separates guest traffic,
+        staff devices, business-critical systems, and IoT or CCTV equipment.
+      </p>
+      <h4>Network Zones</h4>
+      <ul>
+        <li>Guest devices.</li>
+        <li>Staff devices.</li>
+        <li>Business-critical systems.</li>
+        <li>IoT and CCTV equipment.</li>
+      </ul>
+      <details>
+        <summary><strong>View technical implementation</strong></summary>
+        <br />
+        <ul>
+          <li>VLAN segmentation and structured IP addressing.</li>
+          <li>Inter-VLAN firewall policies.</li>
+          <li>Guest client isolation.</li>
+          <li>IoT and CCTV isolation.</li>
+          <li>DHCP ranges and reservations.</li>
+          <li>DNS and content filtering.</li>
+          <li>Captive portal access.</li>
+          <li>Per-user bandwidth limits.</li>
+          <li>Connectivity and isolation testing.</li>
+          <li>Technical documentation and network diagram.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
 06 · Professional Experience
 
