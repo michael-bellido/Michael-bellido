@@ -457,13 +457,22 @@ A structured overview of the languages, platforms, systems, and tools I use to d
 
 07 · Education
 
-Bachelor's Degree in Computer Engineering
-
-Polish-Japanese Academy of Information TechnologyWarsaw, Poland · 2025 – Present
-
-Computer Engineering Studies
-
-Universidad de Las Palmas de Gran CanariaSpain · 2022 – 2025
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Bachelor's Degree in Computer Engineering</h3>
+      <strong>Polish-Japanese Academy of Information Technology</strong><br />
+      Warsaw, Poland<br />
+      2025 – Present
+    </td>
+    <td valign="top" width="50%">
+      <h3>Computer Engineering Studies</h3>
+      <strong>Universidad de Las Palmas de Gran Canaria</strong><br />
+      Spain<br />
+      2022 – 2025
+    </td>
+  </tr>
+</table>
 
 08 · Certifications
 
@@ -505,4 +514,4 @@ Developing — practical projects with measurable business impact.
 
 Exploring — AI agents, data, and technology consulting.
 
-Seeking — AI, automation, implementation, and consulting roles.
+Seeking — IT and software roles in Poland, from automation and AI-driven systems to broader engineering and technical positions.
