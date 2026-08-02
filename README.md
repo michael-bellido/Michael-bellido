@@ -489,6 +489,7 @@ A structured overview of the languages, platforms, systems, and tools I use to d
   <img src="https://img.shields.io/badge/English-C1-000000?style=for-the-badge" alt="English C1" />
   <img src="https://img.shields.io/badge/German-B1-000000?style=for-the-badge" alt="German B1" />
   <img src="https://img.shields.io/badge/Italian-B1-000000?style=for-the-badge" alt="Italian B1" />
+  <img src="https://img.shields.io/badge/Portuguese-A2-000000?style=for-the-badge" alt="Portuguese A2" />
   <img src="https://img.shields.io/badge/Polish-A1-000000?style=for-the-badge" alt="Polish A1" />
 </p>
 
