@@ -113,6 +113,9 @@ A structured overview of the languages, platforms, systems, and tools I use to d
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge" alt="API Integration" />
   <img src="https://img.shields.io/badge/System_Integration-000000?style=for-the-badge" alt="System Integration" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
 </p>
 
 04 — AI & Automation
@@ -124,6 +127,11 @@ A structured overview of the languages, platforms, systems, and tools I use to d
   <img src="https://img.shields.io/badge/AI_Chatbots-000000?style=for-the-badge" alt="AI Chatbots" />
   <img src="https://img.shields.io/badge/Workflow_Automation-000000?style=for-the-badge" alt="Workflow Automation" />
   <img src="https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge" alt="LLM Evaluation" />
 </p>
 
 05 — CRM, Marketing & Analytics
@@ -226,6 +234,63 @@ A structured overview of the languages, platforms, systems, and tools I use to d
 </table>
 
 05 · Featured Projects
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <div align="center">
+        <h3>Property AI — RAG Chatbot for Real Estate</h3>
+        <p><strong>Real Estate · Portfolio Project</strong></p>
+        <p>
+          <a href="https://property-ai-sunset.streamlit.app">
+            <img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo" />
+          </a>
+          <a href="https://github.com/michael-bellido/property-ai-rag">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=flat-square&logo=github&logoColor=white" alt="View Code" />
+          </a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" alt="RAG" />
+          <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" alt="LangChain" />
+          <img src="https://img.shields.io/badge/Groq-000000?style=flat-square" alt="Groq" />
+          <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
+          <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+        </p>
+      </div>
+      <hr />
+      <p>
+        Designed, built, and deployed an end-to-end Retrieval-Augmented Generation
+        chatbot for a fictional Tenerife real-estate agency, combining a local
+        vector store, multi-turn conversation memory, bilingual responses, and an
+        automated LLM-as-judge evaluation suite.
+      </p>
+      <h4>Key Results</h4>
+      <ul>
+        <li>Scored <strong>8/8 groundedness</strong> and <strong>5/5 adversarial safety</strong> on an automated LLM-as-judge evaluation suite.</li>
+        <li>Found and patched a <strong>prompt-injection vulnerability</strong> surfaced by adversarial testing.</li>
+        <li>Backed by <strong>34 automated tests</strong> covering retrieval, conversation memory, and error handling.</li>
+        <li>Deployed live with Docker support and a CI pipeline running tests and linting on every push.</li>
+      </ul>
+      <details>
+        <summary><strong>View technical implementation</strong></summary>
+        <br />
+        <ul>
+          <li>RAG pipeline: local Chroma vector store with sentence-transformers embeddings over property listings and FAQ data.</li>
+          <li>Conversation memory with follow-up question condensation for natural multi-turn chat.</li>
+          <li>Bilingual (EN/ES) responses with automatic language detection.</li>
+          <li>Per-session question limit to protect the shared, free-tier LLM API quota.</li>
+          <li>Friendly, logged error handling for LLM/API failures instead of raw tracebacks.</li>
+          <li>Modular architecture (config, UI, prompts, retrieval, LLM client) with a full pytest suite.</li>
+          <li>Dockerized and deployed on Streamlit Community Cloud.</li>
+          <li>LLM-as-judge evaluation suite testing groundedness and adversarial/safety scenarios.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <table width="100%">
   <tr>
