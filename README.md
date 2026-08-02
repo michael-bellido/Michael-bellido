@@ -476,23 +476,11 @@ A structured overview of the languages, platforms, systems, and tools I use to d
 
 ## 08 · Certifications
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>Data Science with Artificial Intelligence</li>
-        <li>AI Engineering: From Fundamentals to AI Agents</li>
-        <li>AI Development with Agents</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <ul>
-        <li>AI-Powered Digital Marketing</li>
-        <li>SEO for AI & Google</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Data Science with Artificial Intelligence — BIG School
+- AI Engineering: From Fundamentals to AI Agents — BIG School
+- AI Development with Agents — BIG School
+- AI-Powered Digital Marketing — BIG School
+- SEO for AI & Google — BIG School
 
 ## 09 · Languages
 
